@@ -1,0 +1,19 @@
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\bin\Debug\Calcul de score.exe.config
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\bin\Debug\Calcul de score.exe
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\bin\Debug\Calcul de score.pdb
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul de score.csprojAssemblyReference.cache
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul_de_score.Form1.resources
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul_de_score.Properties.Resources.resources
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul de score.csproj.GenerateResource.cache
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul de score.exe
+C:\Users\closed\source\repos\Calcul de score\Calcul de score\obj\Debug\Calcul de score.pdb
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\bin\Debug\Calcul de score.exe.config
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\bin\Debug\Calcul de score.exe
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\bin\Debug\Calcul de score.pdb
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul de score.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul_de_score.Form1.resources
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul_de_score.Properties.Resources.resources
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul de score.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul de score.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul de score.exe
+\\Mac\Home\Desktop\workspace.net\Calcul de score\Calcul de score\obj\Debug\Calcul de score.pdb
