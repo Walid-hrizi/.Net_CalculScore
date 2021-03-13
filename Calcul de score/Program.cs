@@ -9,7 +9,7 @@ namespace Calcul_de_score
     static class Program
     {
         /// <summary>
-        /// The main entry point for the application.
+        /// The main entry point for the application.wwwwwwww
         /// </summary>
         [STAThread]
         static void Main()
